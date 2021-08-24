@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="lightbulb.jpg" style="float:right;width:180px;height:180px;"> 
+<img src="images/lightbulb.jpg" style="float:right;width:180px;height:180px;"> 
 
 # WORKSHOP TITLE HERE (Use Regular Case Like this)
 
