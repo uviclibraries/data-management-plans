@@ -23,6 +23,6 @@ If you’d like to earn a DSC badge for this workshop, please email the followin
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
 
-<iframe src="https://bright.uvic.ca/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=lti&amp;rCode=AD682DD6-F917-4E4A-BECB-6C0E2C3264E7-605623" title="Topic 1 - Why is Multimedia and Online Learning Important? (09:10)" allowfullscreen="" allow="microphone *; camera *; autoplay *" height="402" width="608"></iframe>
+<iframe src="https://bright.uvic.ca/d2l/common/dialogs/quickLink/quickLink.d2l?ou=56526&amp;type=lti&amp;rCode=AD682DD6-F917-4E4A-BECB-6C0E2C3264E7-605623" title="Topic 1 - Why is Multimedia and Online Learning Important? (09:10)" allowfullscreen="" allow="microphone *; camera *; autoplay *" height="402" width="608"></iframe>
 
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
