@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workshop Video
-nav_order: 2
+nav_order: 3
 ---
 ## Watch Workshop Video 
 This lecture-style workshop reviews the key components of a data management plan (DMP) and offers guidance on using the [DMP Assistant](https://assistant.portagenetwork.ca/){:target="_blank"}, a national, online, bilingual data management planning tool developed by the Portage Network in collaboration with host institution University of Alberta to assist researchers in preparing data management plans (DMPs). This tool is freely available to all researchers, and develops a DMP through a series of key data management questions, supported by best-practice guidance and examples.
