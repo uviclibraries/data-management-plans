@@ -3,19 +3,29 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/lightbulb.jpg" style="float:right;width:180px;height:180px;"> 
+<img src="images/dmpb.jpg" style="float:right;width:180px;height:180px;"> 
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+Data Management Plans (DMP), an Introduction
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 15 min 
+- Presentation: 39 min
 
-## Why TOOL NAME HERE? 
+## Why Data Management Plans (DMP)? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+A Data Management Plan (DMP) is a formal and evolving document that outlines the practices, processes, and strategies of the data you expect to acquire or generate during the course of a research project.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+By completing a DMP you will be working towards:
+
+•    Setting out consistent strategies for how your data will be managed
+•    Identifying strengths and weaknesses in your current practices 
+•    Preparing the data for future reuse, preservation, and sharing
+•    Reducing the overall cost of research by increasing project efficiencies
+
+ [DMP Assistant](https://assistant.portagenetwork.ca/){:target="_blank"} is a national, online, bilingual data management planning tool developed by the Portage Network in collaboration with host institution University of Alberta to assist researchers in preparing data management plans (DMPs). This tool is freely available to all researchers, and develops a DMP through a series of key data management questions, supported by best-practice guidance and examples.
+
+DMPs are one of the foundations of good research data management (RDM), an international best practice, and increasingly required by institutions and funders. For example, they are a pillar of the Canadian Tri-Agency Research Data Management Policy.
+ 
+ [Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
 
 This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
 
