@@ -21,7 +21,7 @@ By completing a DMP you will be working towards:
 - Preparing the data for future reuse, preservation, and sharing
 - Reducing the overall cost of research by increasing project efficiencies
 
-[DMP Assistant](https://assistant.portagenetwork.ca/){:target="_blank"} is a national, online, bilingual data management planning tool developed by the Portage Network in collaboration with host institution University of Alberta to assist researchers in preparing data management plans (DMPs). This tool is freely available to all researchers, and develops a DMP through a series of key data management questions, supported by best-practice guidance and examples.
+This workshop uses the[DMP Assistant](https://assistant.portagenetwork.ca/){:target="_blank"} because it is a national, online, bilingual data management planning tool developed by the [Portage Network](https://portagenetwork.ca/){:target="_blank"} in collaboration with host institution University of Alberta to assist researchers in preparing DMPs. This tool is freely available to all researchers, and develops a DMP through a series of key data management questions, supported by best-practice guidance and examples.
 
 DMPs are one of the foundations of good research data management (RDM), an international best practice, and increasingly required by institutions and funders. For example, they are a pillar of the Canadian [Tri-Agency Research Data Management Policy](https://science.gc.ca/eic/site/063.nsf/eng/h_97610.html){:target="_blank"}.
 
