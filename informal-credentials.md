@@ -12,8 +12,6 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-Earn an Informal Credential or Badge for Taguette
-
 If you’d like to earn a DSC badge for this workshop, please send your request to:[mgrenier@uvic.ca](mailto:mgrenier@uvic.ca){:target="_blank"}
 
 ### Learn how you can share your DSC Badge
