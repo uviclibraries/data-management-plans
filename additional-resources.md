@@ -1,16 +1,18 @@
 ---
 layout: default
 title: Additional Resources
-nav_order: 10
+nav_order: 5
 ---
 # Additional Resources & Acknowledgements
+- [University of Victoria Research Data Services Guide](https://libguides.uvic.ca/covidence)
+- [Portage Network DMP Assistant 2.0](https://assistant.portagenetwork.ca/)
+- [DMP Exemplars](https://portagenetwork.ca/tools-and-resources/training-resources/)  
 
-## WORKSHOP NAME HERE Resources
-
+## Data Management Plans (DMPs) Resources
+- [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
 
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
-- **MORE ACKNOWLEDGEMETNS HERE**
 
 [NEXT STEP: Land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
