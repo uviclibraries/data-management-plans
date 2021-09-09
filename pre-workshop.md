@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Pre-Workshop Activities
+title: Pre-Workshop Videos
 nav_order: 2
 ---
-## Pre-Workshop Videos & Activities
+## Pre-Workshop Videos
 Wondering what exactly research data management is and what it entails? These videos introduce you to the data lifecycle, the importance of research data management, the data services available to your through UVic Libraries which help to support the directives of the [Tri-Agency Research Data Management Policy](https://science.gc.ca/eic/site/063.nsf/eng/h_97610.html){:target="_blank"}. <br>
 
 - ### [Introduction to Research Data Management](https://libguides.uvic.ca/researchdata){:target="_blank"} (5 min)<br>
