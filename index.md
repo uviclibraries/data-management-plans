@@ -14,7 +14,7 @@ nav_order: 1
 
 A Data Management Plan (DMP) is a formal and evolving document that outlines the practices, processes, and strategies of the data you expect to acquire or generate during the course of a research project.
 
-By completing a DMP you will be working towards:
+**By completing a DMP you will be working towards:**
 
 - Setting out consistent strategies for how your data will be managed
 - Identifying strengths and weaknesses in your current practices 
