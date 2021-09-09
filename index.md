@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/dmp.jpg" style="float:right;width:300px;height:220px;"> 
+<img src="images/dmp.jpg" style="float:right;width:400px;height:320px;"> 
 
 # Data Management Plans (DMPs), an Introduction
 
