@@ -15,4 +15,4 @@ nav_order: 4
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
 
-[NEXT STEP: Land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
