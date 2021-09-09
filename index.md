@@ -8,7 +8,7 @@ nav_order: 1
 # Data Management Plans (DMPs), an Introduction
 
 - Pre-workshop activities: 15 min 
-- Workshop Video: 39 min
+- Workshop Video: 40 min
 
 ## Why Data Management Plans (DMPs)? 
 
