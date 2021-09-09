@@ -12,4 +12,4 @@ This lecture-style workshop reviews the key components of a data management plan
 
 - ### [Presentation Slides](https://bit.ly/3zRhhSa){:target="_blank"} 
 <br>
-[Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[OPTIONAL: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
