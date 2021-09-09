@@ -17,4 +17,4 @@ If you’d like to earn a DSC badge for this workshop, please send your request 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
 
-[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
+[VIEW: Land Acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
