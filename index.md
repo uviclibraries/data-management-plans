@@ -5,12 +5,12 @@ nav_order: 1
 ---
 <img src="images/dmp.jpg" style="float:right;width:300px;height:220px;"> 
 
-# Data Management Plans (DMP), an Introduction
+# Data Management Plans (DMPs), an Introduction
 
 - Pre-workshop activities: 15 min 
 - Presentation: 39 min
 
-## Why Data Management Plans (DMP)? 
+## Why Data Management Plans (DMPs)? 
 
 A Data Management Plan (DMP) is a formal and evolving document that outlines the practices, processes, and strategies of the data you expect to acquire or generate during the course of a research project.
 
