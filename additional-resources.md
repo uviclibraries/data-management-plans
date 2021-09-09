@@ -14,6 +14,7 @@ nav_order: 4
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/){:target="_blank"}, for their assistance with the Jekyll template for GitHub Pages.
-- [Monique Grenier, UVic Data Curation Librarian] (mailto:mgrenier@uvic.ca){:target="_blank"} created the core of the Taguette workshop, including the introductory presentation. Contact Monique with any questions.
+- [Monique Grenier](mailto:mgrenier@uvic.ca){:target="_blank"}, UVic Data Curation Librarian, created this workshop, including the pre-workshop video _UVic Libraries' Research Data Services_. Contact Monique with any questions.
+- Jessica Mussell and Aditi Gupta, UVic Librarians, created the pre-workshop video _Intro to Research Data Management_.
 <br>
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
