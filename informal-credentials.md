@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Earn a Workshop Badge
-nav_order: 3
+nav_order: 5
 ---
 
 # Informal Credentials or Digital Badges
