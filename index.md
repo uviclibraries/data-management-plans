@@ -35,4 +35,4 @@ At the end of this workshop, you will be able to:
  
 
 
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
+[NEXT STEP: Pre-Workshop Videos](pre-workshop.html){: .btn .btn-blue }
