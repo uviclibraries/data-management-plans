@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 6
-title: Land acknowledgement 
+title: Land Acknowledgement 
 ---
 # Land acknowledgement
 
